@@ -9,8 +9,13 @@
 	color: #CC00AA;
 }
 
+
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
+#project1{
+     font-variant: small-caps;
+}
+
 body {
      border: 1px dotted gray;
      padding: 20px;
